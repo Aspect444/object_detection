@@ -1,0 +1,40 @@
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #noo{
+    font-size: 18px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.iimmgg{
+    width: 80%;
+    padding-top: 10px;
+    font-size: 35px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(3, 167, 3);
+    color: white;
+    height: 45px;
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    padding-top: 8px;
+}
+
+canvas{
+    border: 3px solid black;
+}
